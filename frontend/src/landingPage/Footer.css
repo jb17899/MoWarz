@@ -1,0 +1,15 @@
+.vals-footer{
+    height:20vh!important;
+    margin-top: -6%!important;
+    border: 20px #000000!important;
+}
+.bg-none{
+    background: transparent!important;
+}
+.change-color{
+    color: #fff!important;
+    background-color: none!important;
+}
+.nav-link.change-color:hover,.nav-link.change-color:active{
+    color: rgb(237, 76, 103)!important;
+}

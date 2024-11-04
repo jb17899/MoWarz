@@ -1,0 +1,14 @@
+.container-fluid{
+    padding-right:0px!important;
+    padding-left:0px!important;
+}
+.bg-mains{
+    height:85vh!important;
+    background-image:linear-gradient(to top,
+    rgb(237, 76, 103,0.7),
+    rgb(99, 110, 114,0.5));
+    padding-top:6%!important;
+}
+.bg-dark-custom{
+    background-color: rgba(0, 0, 0, 0.842)!important;
+}
